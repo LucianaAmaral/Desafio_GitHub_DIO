@@ -1,8 +1,10 @@
+Git é um sistemas de controle distribuído,capaz de registrar e armazenar alterações feitas em cima de um código.
 Link para download do Git: https://git-scm.com/downloads
+
 Git Bash é o aplicativo que emula um terminal Unix permitindo o uso dos comandos Git no Windows. 
 Vale lembrar que Git e GitHub não são a mesma coisa.
 
-Segue aqui um resumo dos comandos Git e o que fazem:
+Segue aqui um resumo de alguns comandos Git e o que fazem:
 
 git init: inicializa um repositório local git
 git status: verifica o estado dos seus arquivos
@@ -13,3 +15,9 @@ git remote add origin urlDoRepositorio: adiciona e indica a URL do repositório 
 git push origin master: envia os arquivos para o repositório remoto que você especificou através da URL do comando acima
 git checkout -b <nomeDaBranch>: cria uma nova branch
 git checkout <nomeDaBranch>: alterna para a branch especificada
+
+GitHub é um repositório/plataforma de dados compartilhados, majoritariamente usada por desenvolvedores,
+pois permite uma hospedagem prática de código-fonte e arquivos em nuvem.
+É uma espécie de "rede social para programadores"
+
+Link para acesso ao GitHub:https://github.com/
